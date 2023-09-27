@@ -10,15 +10,15 @@ h1{
     text-align: center;
 }
 
-.centre-dies {
-    font: bold;
-    background-color: lightblue;
-}
-
 tr, td, th {
     border-radius: 12px;
     border-style: solid;
     padding: 22px;
+}
+
+.centre-dies {
+    font: bold;
+    background-color: lightblue;
 }
 
 .horas{
