@@ -10,6 +10,9 @@ h1{
     text-align: center;
 }
 
+.logo{
+    max-width: 100px;
+}
 tr, td, th {
     border-radius: 12px;
     border-style: solid;
